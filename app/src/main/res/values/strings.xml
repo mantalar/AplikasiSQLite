@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplikasi SQLite</string>
+    <string name="toolbar_title">SQLite Friend</string>
+    <string name="mi_about">About</string>
+    <string name="about_msg">Aplikasi CRUD persistance dengan SQLite</string>
+    <string name="mi_exit">Exit</string>
+    <string name="tv_id">ID</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_address">Address</string>
+    <string name="til_id_hint">ID</string>
+    <string name="til_name_hint">Name</string>
+    <string name="til_address_hint">Address</string>
+    <string name="til_phone_hint">Phone</string>
+    <string name="bt_clear">Clear</string>
+    <string name="bt_save">Save</string>
+</resources>
